@@ -1,4 +1,4 @@
-require 'pry'
+# require 'pry'
 # def sum_arr(a)
 #   a.reduce(:+)
 # end
